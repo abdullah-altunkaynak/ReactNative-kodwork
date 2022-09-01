@@ -7,3 +7,4 @@
 6- Redux -> https://redux.js.org/
 7- vector icons -> https://github.com/oblador/react-native-vector-icons
 
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/abdullah-altunkaynak/ReactNative-kodwork/blob/main/kodwork.gif)" width="40" height="40" />
